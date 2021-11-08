@@ -1,0 +1,40 @@
+body {
+  font: 100% Helvetica, sans-serif;
+}
+
+nav {
+  margin: 20px;
+  padding: 30px;
+}
+nav li {
+  display: inline-block;
+  color: DarkCyan;
+}
+nav li a {
+  font-weight: 800;
+}
+
+.alert {
+  margin: 20px;
+  padding: 30px;
+}
+.alert.alert-primary {
+  background-color: antiquewhite;
+}
+.alert.alert-secondary {
+  background-color: coral;
+}
+
+.card {
+  margin: 20px;
+  padding: 30px;
+  border: 1px solid #ccc;
+}
+.card.card-primary {
+  background-color: antiquewhite;
+}
+.card.card-secondary {
+  background-color: coral;
+}
+
+/*# sourceMappingURL=styles.css.map */
